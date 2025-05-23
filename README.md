@@ -25,7 +25,7 @@ Generar conocimiento científico y tecnológico de alto impacto en el área de s
 ---
 
 ## 🔬 Líneas de Investigación
-- 🧠 **Sistemas difusos y neurodifusos embebidos**
+- 🧠 **Sistemas difusos embebidos**
 - ⚡ **Optimización de recursos y cómputo heterogéneo con FPGAs**
 - 🤖 **Aprendizaje automático en hardware (VHDL / HLS)**
 - 🎛️ **Síntesis de alto nivel y metaheurísticas**
