@@ -1,6 +1,5 @@
 # IS-LAB – Intelligent Systems Laboratory 🧠⚙️
 
-**Bienvenido al repositorio oficial del IS-LAB (Intelligent Systems Laboratory)**  
 El Intelligent Systems Laboratory (IS-LAB) es un grupo de investigación multidisciplinario dedicado al diseño, desarrollo y evaluación de sistemas inteligentes embebidos en plataformas de hardware reconfigurable. Con un enfoque práctico y orientado a la innovación, IS-LAB promueve soluciones tecnológicas avanzadas para problemas reales de la ingeniería moderna.
 
 ---
