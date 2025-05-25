@@ -39,6 +39,13 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
 
 ## 📚 Publicaciones destacadas
 
+#### 2025
+
+#### 2024
+
+#### 2023
+
+
 #### 2022
 - **Prepare for Ludicrous Speed: Marker-based Instantaneous Binocular Rolling Shutter Localization**  
   Juan Carlos Dibene, Yazmin Maldonado, Leonardo Trujillo, Enrique Dunn*  
@@ -61,7 +68,7 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
 - **Comparative Analysis of Relocation Strategies for Ambulances in the City of Tijuana, Mexico**  
   *Leonardo Trujillo, Guadalupe Álvarez-Hernández, Yazmín Maldonado, Carlos Vera*  
   _Computers in Biology and Medicine_, Vol. 116, pp. 1–10  
-  [DOI: 10.1016/j.compbiomed.2019.103538](https://doi.org/10.1016/j.compbiomed.2019.103538)
+  [DOI: 10.1016/j.compbiomed.2019.103567](https://doi.org/10.1016/j.compbiomed.2019.103567)
 
 #### 2018
 - **Modeling Uncertainty for the Double Standard Model Using a Fuzzy Inference System**  
@@ -72,7 +79,7 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
 - **Comparación de Algoritmos Evolutivos Multi-Objetivo para Síntesis de Alto Nivel en Dispositivos FPGA**  
   *Darian Reyes Fernández de Bulnes, Yazmín Maldonado*  
   _Computación y Sistemas_, Vol. 22, No. 2, pp. 1–14  
-  [DOI: 10.13053/CyS-22-2-2964](https://doi.org/10.13053/CyS-22-2-2964)
+  [DOI: 10.13053/cys-22-2-2946](https://doi.org/10.13053/cys-22-2-2946)
 
 #### 2017
 - **High-Level Synthesis Through Metaheuristics and LUTs Optimization in FPGA Devices**  
@@ -84,24 +91,24 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
 - **Optimizing the Location of Ambulances in Tijuana, Mexico**  
   *Juan Carlos Dibene, Yazmín Maldonado, Carlos Vera, Mauricio de Oliveira, Leonardo Trujillo, Oliver Schütze*  
   _Computers in Biology and Medicine_, Vol. 77, pp. 1–18  
-  [DOI: 10.1016/j.compbiomed.2016.07.004](https://doi.org/10.1016/j.compbiomed.2016.07.004)
+  [DOI: 10.1016/j.compbiomed.2016.11.016](https://doi.org/10.1016/j.compbiomed.2016.11.016)
 
 #### 2014
 - **A Multi-objective Optimization of Type-2 Fuzzy Control Speed in FPGAs**  
   *Yazmín Maldonado, Oscar Castillo, Patricia Melin*  
   _Applied Soft Computing_, Vol. 24, pp. 1164–1174  
-  [DOI: 10.1016/j.asoc.2014.08.004](https://doi.org/10.1016/j.asoc.2014.08.004)
+  [DOI: 10.1016/j.asoc.2014.04.041](https://doi.org/10.1016/j.asoc.2014.04.041)
 
 #### 2013
 - **Particle Swarm Optimization of Interval Type-2 Fuzzy Systems for FPGA Applications**  
   *Yazmín Maldonado, Oscar Castillo, Patricia Melin*  
   _Applied Soft Computing_, Vol. 13, pp. 496–508  
-  [DOI: 10.1016/j.asoc.2012.08.009](https://doi.org/10.1016/j.asoc.2012.08.009)
+  [DOI: 10.1016/j.asoc.2012.08.032](https://doi.org/10.1016/j.asoc.2012.08.032)
 
 - **Embedded Average of Interval Type-2 Fuzzy Systems for Control Applications in FPGAs**  
   *Yazmín Maldonado, Oscar Castillo, Patricia Melin*  
   _Intelligent Automation and Soft Computing_, Vol. 19, No. 4, pp. 1–17  
-  [DOI: 10.1080/10798587.2013.863531](https://doi.org/10.1080/10798587.2013.863531)
+  [DOI: 10.1080/10798587.2013.863531](https://www.tandfonline.com/doi/abs/10.1080/10798587.2013.863531)
 
 #### 2012
 - **Genetic Design of an Interval Type-2 Controller for Velocity Regulation in a DC Motor**  
