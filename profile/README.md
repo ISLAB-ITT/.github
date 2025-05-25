@@ -15,10 +15,10 @@ Generar conocimiento científico y tecnológico de alto impacto en el área de s
 ---
 
 ⭐ Valores
-**Innovación:** Promovemos la creatividad en el diseño de soluciones tecnológicas avanzadas.
-**Rigor científico:** Mantenemos altos estándares en nuestras investigaciones y publicaciones.
-**Colaboración:** Trabajamos en conjunto con investigadores, estudiantes y otras instituciones.
-**Compromiso social:** Orientamos nuestros proyectos hacia necesidades reales y relevantes.
+**Innovación:** Promovemos la creatividad en el diseño de soluciones tecnológicas avanzadas.<br>
+**Rigor científico:** Mantenemos altos estándares en nuestras investigaciones y publicaciones.<br>
+**Colaboración:** Trabajamos en conjunto con investigadores, estudiantes y otras instituciones.<br>
+**Compromiso social:** Orientamos nuestros proyectos hacia necesidades reales y relevantes.<br>
 **Formación:** Impulsamos la capacitación de nuevas generaciones de investigadores.
 
 ---
@@ -43,7 +43,7 @@ Nota personal 2: Aquí pondre todos los articulos que se han realizado en IS-LAB
 ---
 
 👩‍🔬 Liderazgo<br>
-Dra. Yazmín Maldonado Robles<br>
+**Dra. Yazmín Maldonado Robles**<br>
 Tecnológico Nacional de México<br>
 Instituto Tecnológico de Tijuana<br>
 Departamento de Ingeniería Eléctrica y Electrónica<br>
