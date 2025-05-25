@@ -40,15 +40,26 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
 ## 📚 Publicaciones destacadas
 
 #### 2025
-
+- **HAMP: A Hardware Accelerator Multi-Platform Benchmark for High Performance Heterogeneous Computing**  
+  *Rogelio Valdez, Yazmin Maldonado, Joel A. Quevedo*  
+  _CITCA_, Vol. X  
+  [DOI: Pendiente de publicación]()
+  
 #### 2024
-
+- **GSGP-hardware: instantaneous symbolic regression with an FPGA implementation of geometric semantic genetic programming**  
+  *Yazmin Maldonado, Ruben Salas, Joel A. Quevedo, Rogelio Valdez, Leonardo Trujillo*  
+  _Genetic Programming and Evolvable Machines_, Vol. 18  
+  [DOI: 10.1007/s10710-024-09491-5](https://doi.org/10.1007/s10710-024-09491-5)
+  
 #### 2023
-
+- **Fuzzy Hardware Tool: An Adaptable Tool to Facilitate the Implementation of Fuzzy Inference Systems in Hardware**  
+  *Rogelio Valdez, Yazmin Maldonado, Joel A. Quevedo*  
+  _Electronics_, Vol. 12    
+  [DOI: 10.3390/electronics12132853](https://doi.org/10.3390/electronics12132853)
 
 #### 2022
 - **Prepare for Ludicrous Speed: Marker-based Instantaneous Binocular Rolling Shutter Localization**  
-  Juan Carlos Dibene, Yazmin Maldonado, Leonardo Trujillo, Enrique Dunn*  
+  *Juan Carlos Dibene, Yazmin Maldonado, Leonardo Trujillo, Enrique Dunn*  
   _IEEE Transactions on Visualization and Computer Graphics_, Vol. 28, No. 5, pp. 2201–2211  
   [DOI: 10.1109/TVCG.2022.3150485](https://doi.org/10.1109/TVCG.2022.3150485)
 
