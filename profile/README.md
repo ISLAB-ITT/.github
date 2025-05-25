@@ -14,7 +14,7 @@ Generar conocimiento científico y tecnológico de alto impacto en el área de s
 
 ---
 
-⭐ Valores<br>
+##⭐ Valores  
 **Innovación:** Promovemos la creatividad en el diseño de soluciones tecnológicas avanzadas.<br>
 **Rigor científico:** Mantenemos altos estándares en nuestras investigaciones y publicaciones.<br>
 **Colaboración:** Trabajamos en conjunto con investigadores, estudiantes y otras instituciones.<br>
