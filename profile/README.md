@@ -42,7 +42,7 @@ Nota personal 2: Aquí pondre todos los articulos que se han realizado en IS-LAB
 
 ---
 
-👩‍🔬 Liderazgo  
+## 👩‍🔬 Liderazgo  
 **Dra. Yazmín Maldonado Robles**<br>
 Tecnológico Nacional de México<br>
 Instituto Tecnológico de Tijuana<br>
