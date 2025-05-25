@@ -31,6 +31,14 @@ Generar conocimiento científico y tecnológico de alto impacto en el área de s
 - 🚑 **Aplicaciones en salud, robótica y movilidad urbana**
 
 ---
+## 👩‍🔬 Liderazgo  
+**Dra. Yazmín Maldonado Robles**<br>
+Tecnológico Nacional de México<br>
+Instituto Tecnológico de Tijuana<br>
+Departamento de Ingeniería Eléctrica y Electrónica<br>
+Posgrado en Ciencias de la Ingeniería, Maestría y Doctorado<br>
+
+---
 
 ## 📁 Proyectos Representativos
 Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o poner un nombre generico de lo que se esta trabajando
@@ -132,15 +140,6 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
   *Yazmín Maldonado, Oscar Castillo, Patricia Melin*  
   _Journal of Automation, Mobile Robotics & Intelligent Systems_, Vol. 4, pp. 53–63  
   [URL: https://www.jamris.org/index.php/JAMRIS/article/view/141](https://www.jamris.org/index.php/JAMRIS/article/view/141)
-
----
-
-## 👩‍🔬 Liderazgo  
-**Dra. Yazmín Maldonado Robles**<br>
-Tecnológico Nacional de México<br>
-Instituto Tecnológico de Tijuana<br>
-Departamento de Ingeniería Eléctrica y Electrónica<br>
-Posgrado en Ciencias de la Ingeniería, Maestría y Doctorado<br>
 
 ---
 
