@@ -113,7 +113,7 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
 - **Novel Genetic Optimization of Membership Functions of Fuzzy Logic for Speed Control of a Direct Current Motor for Hardware Applications in FPGAs**  
   *Yazmín Maldonado, Oscar Castillo, Patricia Melin*  
   _Journal of Automation, Mobile Robotics & Intelligent Systems_, Vol. 4, pp. 53–63  
-  [DOI: 10.14313/JAMRIS_4-2010/53](https://doi.org/10.14313/JAMRIS_4-2010/53)
+  [URL: https://www.jamris.org/index.php/JAMRIS/article/view/141](https://www.jamris.org/index.php/JAMRIS/article/view/141)
 
 ---
 
