@@ -135,8 +135,6 @@ Pendiente de agregar, nota personal: estoy entre poner el nombre de las tesis o 
 
 ---
 
----
-
 ## 👩‍🔬 Liderazgo  
 **Dra. Yazmín Maldonado Robles**<br>
 Tecnológico Nacional de México<br>
